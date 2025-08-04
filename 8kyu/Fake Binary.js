@@ -8,6 +8,5 @@ function fakeBin(x) {
       res += "1";
     }
   }
-
   return res;
 }
