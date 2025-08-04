@@ -5,7 +5,7 @@ function fakeBin(x) {
     if (x[i] < 5) {
       res += "0";
     } else {
-      res += "1";
+      res += "1"
     }
   }
   return res;
